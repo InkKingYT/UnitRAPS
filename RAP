@@ -90,7 +90,7 @@ return {
 	["Poppy's Case"] = 0,
 	["Kissy Missy"] = 20,
 	["Player"] = 10000,
-	["The Prototype"] = 120000u,
+	["The Prototype"] = 120000,
 	["Boxy Boo"] = 15000,
 	["Nagiev"] = 10000,
 	
