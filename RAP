@@ -115,7 +115,7 @@ return {
 	["Bird Slingshot"] = 20000,
         ["Steve"] = 1100,
         ["Kuzya"] = 0, 
-        ["Shiny Kuzya"] = 0
+        ["Shiny Kuzya"] = 0,
 
 	["Michael Afton"] = 0,
 	["PBJT"] = 0,
