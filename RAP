@@ -83,7 +83,7 @@ return {
 	["Pyro"] = 10000,
 	["Bendy Cutout"] = 0,
 	["Ink Demon"] = 20000,
-	["Bendy Statue"] = ,
+	["Bendy Statue"] = 65000,
 	["Metal Sonic"] = 100,
 	["Lovely Duo"] = 2000,
 	
