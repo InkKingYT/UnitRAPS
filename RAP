@@ -1,4 +1,4 @@
-{
+return {
 	["Mad Chef"] = 0,
 	["Ink King"] = 0,
 	["Dragon"] = 0,
@@ -116,4 +116,10 @@
         ["Steve"] = 1100,
         ["Kuzya"] = 0, 
         ["Shiny Kuzya"] = 0
+
+	["Michael Afton"] = 0,
+	["PBJT"] = 0,
+        ["Wheatley"] = 0,
+        ["G-Man"] = 0, 
+        ["Wubbox"] = 0
 }
