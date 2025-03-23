@@ -104,7 +104,7 @@
     "Jumbo Josh": 3500,
     "Opila Bird": 15,
     "Sunflower": 20,
-    "Cattail": 60000,
+    "Cattail": 50000,
     "Dancing Banana": 0,
     "Shiny Dancing Banana": 5,
     "Scout": 20,
@@ -119,7 +119,7 @@
     "Wubbox": 100000,
     "Wazzup Ghostface": 0,
     "Shiny Wazzup Ghostface": 0,
-    "Cartoon Ink King": 0,
-    "Corrupted Ink King": 0,
-    "Teardop": 0
+    "Cartoon Ink King": 3000,
+    "Corrupted Ink King": 30000,
+    "Teardop": 2000
 }
