@@ -85,7 +85,7 @@
     "Pyro": 10000,
     "Bendy Cutout": 0,
     "Ink Demon": 8000,
-    "Bendy Statue": 90000,
+    "Bendy Statue": 100000,
     "Metal Sonic": 100,
     "Lovely Duo": 2000,
     "Poppy's Case": 0,
@@ -116,7 +116,7 @@
     "PBJT": 400,
     "Wheatley": 25,
     "G-Man": 5000,
-    "Wubbox": 65000,
+    "Wubbox": 60000,
     "Wazzup Ghostface": 0,
     "Shiny Wazzup Ghostface": 0,
     "Cartoon Ink King": 5000,
@@ -129,6 +129,6 @@
     "Bus Puxlya": 30,
     "Rob": 60000,
     "Sherlock Holmes": 0,
-    "Skibidi Toilet": 200,
+    "Skibidi Toilet": 500,
     "Big Skibibi Toilet": 1000000
 }
